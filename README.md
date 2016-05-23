@@ -1,4 +1,4 @@
-# frank_scape
+# Frank Escape
 Game arcade developed in Unity 3D for study.
 Integration with Unity Everyplay.
 
@@ -8,3 +8,7 @@ Fall for this fun and challenging adventure.
 
 In this first version we have 21 levels.
 Try to finish the level in time and picking up all the stars, to have the greatest reward.
+
+# Google play
+https://play.google.com/store/apps/details?id=com.cactusstudios.frankscape
+https://play.google.com/store/apps/details?id=br.com.cactusstudios.frankscape
